@@ -1,4 +1,4 @@
-# Hello there! I'm Ashilpa Darrel Bumika or usually called ad Darrel 👋
+# Hello there! I'm Ashilpa Darrel Bumika or usually called as Darrel 👋
 ## About me:
 - 🔭 I’m currently studying at Yogyakarta State University in IT major
 - 📫 How to reach me: ashilpa.darrel@gmail.com
@@ -26,15 +26,13 @@
 ---
 
 ## Languages and Tools
-<div style='display:flex; gap:20px; align-items:center'>
-  <img alt="Java" width="35px" src="./img/java.png"  />
-  <img alt="Kotlin" height="40px" src="./img/kotlin.svg" />
-  <img alt="Python" height="40px" src="./img/python.png" />
-  <img alt="ReactJS" height="40px" src="./img/react.png" />
-  <img alt="Vscode" height="40px" src="./img/vscode.png" />
-  <img alt="IntelliJ" height="40px" src="./img/IntelliJ.svg" />
-  <img alt="AndroidStudio" height="40px" src="./img/androidstudio.png" />
-</div>
+  <img alt="Java" width="35px" src="./img/java.png" style="padding-right:20px" />
+  <img alt="Kotlin" height="40px" src="./img/kotlin.svg" style="padding-right:20px" />
+  <img alt="Python" height="40px" src="./img/python.png" style="padding-right:20px" />
+  <img alt="ReactJS" height="40px" src="./img/react.png" style="padding-right:20px" />
+  <img alt="Vscode" height="40px" src="./img/vscode.png" style="padding-right:20px" />
+  <img alt="IntelliJ" height="40px" src="./img/IntelliJ.svg" style="padding-right:20px" />
+  <img alt="AndroidStudio" height="40px" src="./img/androidstudio.png" style="padding-right:20px" />
 
 <!--
 **DarrelBumika/DarrelBumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
