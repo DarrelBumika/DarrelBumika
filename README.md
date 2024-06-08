@@ -27,8 +27,10 @@
 
 ## Languages and Tools
 <div style='display:flex, gap:10px'>
-  <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />
+  <img align="left" alt="Java" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />
+  <img align="left" alt="Kotlin" height="50px" src="./img/kotlin.svg" style="padding-right:10px;" />
 </div>
+
 <!--
 **DarrelBumika/DarrelBumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
