@@ -26,9 +26,14 @@
 ---
 
 ## Languages and Tools
-<div style='display:flex, gap:10px'>
-  <img align="left" alt="Java" height="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" style="padding-right:10px;" />
-  <img align="left" alt="Kotlin" height="50px" src="./img/kotlin.svg" style="padding-right:10px;" />
+<div style='display:flex; gap:20px; align-items:center'>
+  <img alt="Java" width="35px" src="./img/java.png"  />
+  <img alt="Kotlin" height="40px" src="./img/kotlin.svg" />
+  <img alt="Python" height="40px" src="./img/python.png" />
+  <img alt="ReactJS" height="40px" src="./img/react.png" />
+  <img alt="Vscode" height="40px" src="./img/vscode.png" />
+  <img alt="IntelliJ" height="40px" src="./img/IntelliJ.svg" />
+  <img alt="AndroidStudio" height="40px" src="./img/androidstudio.png" />
 </div>
 
 <!--
