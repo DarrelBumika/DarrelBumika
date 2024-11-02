@@ -1,8 +1,20 @@
-# Hello there! I'm Ashilpa Darrel Bumika or usually called as Darrel 👋
-## About me:
-- 🔭 I’m currently studying at Yogyakarta State University in IT major
-- 📫 How to reach me: ashilpa.darrel@gmail.com
+<h1 style="text-align:center;"> Hello There! I'm Darrel👋 </h1>
 
+---
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+IT student in Yogyakarta State University
+<a> ashilpa.darrel@gmail.com </a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="377" src="https://github-readme-stats.vercel.app/api?username=darrelBumika&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="400" src="https://streak-stats.demolab.com?user=darrelBumika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrelBumika&theme=github_dark&langs_count=8&layout=compact&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
+<!--
 ## Education
 #### [Yogyakarta State University](https://www.uny.ac.id/) | Bachelor of Information Technology | Yogyakarta, 2022 - now
 - Infinite IT Organization as Member
@@ -35,18 +47,3 @@
   <img alt="IntelliJ" height="40px" src="./img/IntelliJ.svg" />
   <img alt="AndroidStudio" height="40px" src="./img/androidstudio.png" />
 </div>
-
-<!--
-**DarrelBumika/DarrelBumika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
