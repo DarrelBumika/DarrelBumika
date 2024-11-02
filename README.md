@@ -1,17 +1,24 @@
-<h1 style="text-align:center;"> Hello There! I'm Darrel👋 </h1>
+<h1 align="center"> Hello There! I'm Darrel👋 </h1>
 
----
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-IT student in Yogyakarta State University
-<a> ashilpa.darrel@gmail.com </a>
+<div align="center">
+IT student in Yogyakarta State University <br />
+<a href="mailto:ashilpa.darrel@gmail.com"> ashilpa.darrel@gmail.com </a>
 </div>
 
 <br />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="377" src="https://github-readme-stats.vercel.app/api?username=darrelBumika&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img width="400" src="https://streak-stats.demolab.com?user=darrelBumika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrelBumika&theme=github_dark&langs_count=8&layout=compact&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="700" src="https://streak-stats.demolab.com?user=darrelBumika&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <!--
