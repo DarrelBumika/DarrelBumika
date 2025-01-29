@@ -2,6 +2,7 @@
 
 <div align="center">
 IT student in Yogyakarta State University <br />
+Get in touch with me, 
 <a href="mailto:ashilpa.darrel@gmail.com"> ashilpa.darrel@gmail.com </a>
 </div>
 
